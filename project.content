@@ -2,8 +2,8 @@ CountryInfoServiceSoapBinding\CapitalCity.xml
 CountryInfoServiceSoapBinding\CountriesUsingCurrency.xml
 CountryInfoServiceSoapBinding\CountryCurrency.xml
 CountryInfoServiceSoapBinding\CountryFlag.xml
-CountryInfoServiceSoapBinding\CountryIntPhoneCode.xml
 CountryInfoServiceSoapBinding\CountryISOCode.xml
+CountryInfoServiceSoapBinding\CountryIntPhoneCode.xml
 CountryInfoServiceSoapBinding\CountryName.xml
 CountryInfoServiceSoapBinding\CurrencyName.xml
 CountryInfoServiceSoapBinding\FullCountryInfo.xml
@@ -19,4 +19,4 @@ CountryInfoServiceSoapBinding\ListOfCurrenciesByCode.xml
 CountryInfoServiceSoapBinding\ListOfCurrenciesByName.xml
 CountryInfoServiceSoapBinding\ListOfLanguagesByCode.xml
 CountryInfoServiceSoapBinding\ListOfLanguagesByName.xml
-Project-7-Test-Suite-1\Project-7-Test-Case-1.xml
+Project-7-Test-Suite-1\Test-Case-1.xml
